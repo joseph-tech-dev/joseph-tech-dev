@@ -21,13 +21,13 @@ I'm currently focused on expanding my knowledge and practical experience in:
 ## 🚀 Projects
 
 Here are some of my personal projects related to backend development and IoT:
-- **[Project Name]**: Brief description of what the project does and the technologies used.
-- **[Project Name]**: Brief description of what the project does and the technologies used.
-- **[Project Name]**: Brief description of what the project does and the technologies used.
+- **[Milk weight API]**: https://github.com/joseph-tech-dev/milk-weigh-api.git
+- **[Hotel Management API]**: https://github.com/joseph-tech-dev/hotel-backend.git
+- **[Hospital System API]**: https://github.com/joseph-tech-dev/hospital-scs-203.git
 
 ## 💻 Tools
 - **Frameworks**: Django
-- **Tools**: Git, Docker, etc.
+- **Tools**: Git, Docker.
 - **Editor**: Sublime text,vim
 - **Operating system**: Linux
 * **Databases:** Postgresql and MySQL
