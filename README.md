@@ -43,6 +43,7 @@ Here are some of my personal projects related to backend development and IoT:
 To keep my energy up while I work, I enjoy listening to country music. Some of my favorite artists are:
 - Kenny Rogers
 - Dolly Parton
+- Conway Twitty
 
 📈 GitHub Stats
 
