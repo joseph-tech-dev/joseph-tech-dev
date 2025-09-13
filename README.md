@@ -17,6 +17,7 @@ I'm currently focused on expanding my knowledge and practical experience in:
 * **Django Framework:** Creating web applications with Django's powerful tools.
 * **RESTful APIs:** Designing and implementing APIs for seamless data exchange.
 * **Embedded Systems:** Programming and interacting with hardware for various applications.
+* **Machine learning:** Designing, modelling and coding scalable machine learning models
 
 ## 🚀 Projects
 
