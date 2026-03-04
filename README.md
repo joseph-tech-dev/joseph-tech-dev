@@ -180,7 +180,9 @@ Backend engineer and embedded systems developer specializing in IoT architecture
 | **Heritage** | Ground technical work in cultural values of responsibility and respect |
 
 ---
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joseph-tech-dev&theme=github-light&hide_border=true&area=true" width="95%" />
+</div>
 ## Connect & Collaborate
 
 I welcome technical discussions, project collaborations, and professional networking opportunities within the engineering community.
