@@ -156,10 +156,7 @@ Backend engineer and embedded systems developer specializing in IoT architecture
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/187969869?s=400&u=82d2d5a5a7b2ee8a0f2bd837983fcf7399a9e47c&v=4" width="48%" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=joseph-tech-dev&limit=5&theme=default&combine_all_yearly_contributions=true&hide_border=true" width="48%" />
-</div>
-
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joseph-tech-dev&theme=radial)</div>
 <div align="center">
 
 </div>
