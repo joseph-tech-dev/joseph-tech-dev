@@ -3,7 +3,7 @@ Professional GitHub Profile README for a Software Engineer & Technology Expert
 Designed with modern aesthetics, 3-column tech stack layout, and comprehensive badge integration
 -->
 
-# Joseph Maina
+# Joseph Maina  ![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
 ## Software Engineer | Embedded Systems | Backend Architecture
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-tech-dev)
