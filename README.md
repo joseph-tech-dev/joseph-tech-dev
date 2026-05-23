@@ -155,14 +155,14 @@ Backend engineer and embedded systems developer specializing in IoT architecture
 
 ## GitHub Analytics
 
+## GitHub Analytics
+
 <div align="center">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joseph-tech-dev&theme=radial)</div>
-<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=joseph-tech-dev&show_icons=true&theme=dark" alt="Joseph's GitHub Stats" />
+  <h></h>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseph-tech-dev&theme=dark" alt="GitHub Streak" />
 
 </div>
-
-
-
 ---
 
 ## Professional Philosophy
@@ -177,7 +177,7 @@ Backend engineer and embedded systems developer specializing in IoT architecture
 
 ---
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joseph-tech-dev&theme=github-light&hide_border=true&area=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joseph-tech-dev&theme=github-ligt&hide_border=true&area=true" width="95%" />
 </div>
 ## Connect & Collaborate
 
@@ -197,7 +197,7 @@ I welcome technical discussions, project collaborations, and professional networ
 <div align="center">
   <sub>
     Profile views: <img src="https://visitcount.itsvg.in/api?id=joseph-tech-dev&label=Views&color=0&icon=0&pretty=true" /> · 
-    Last updated: March 2025 · 
+    Last updated: May 2026 · 
     Built with <a href="https://shields.io/">Shields.io</a> and <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a>
   </sub>
 </div>
