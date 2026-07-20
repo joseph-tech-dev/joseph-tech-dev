@@ -1,134 +1,168 @@
-<!--
-Professional GitHub Profile README for a Software Engineer & Technology Expert
-Designed with modern aesthetics, 3-column tech stack layout, and comprehensive badge integration
--->
+<div align="center">
 
-# Joseph Maina  ![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
-## Software Engineer | Embedded Systems | Backend Architecture
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C49A&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Joseph+Maina;AI%2FML+Engineer;LLM+%26+Agentic+Systems+Builder;Backend+%2B+ML+Infra" alt="Typing SVG" />
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-tech-dev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/your-handle)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/your-handle)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://joseph-tech-dev.vercel.app/)
 
----
-
-## Professional Summary
-
-Backend engineer and embedded systems developer specializing in IoT architectures and scalable API design. I build robust infrastructure that bridges software logic with hardware interaction, delivering maintainable solutions under pressure. Self-directed engineer with demonstrated capability in autonomous environments and commitment to engineering excellence.
-
-**Location:** Nairobi, Kenya  
-**Core Competencies:** System Architecture · API Design · Hardware Integration · Performance Optimization
-
----
-
-## Technology Stack
-
-<div align="center">
-
-### Languages
-| | | |
-|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
-| ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) |
-| ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) | |
-
-### Backend Frameworks
-| | | |
-|:---:|:---:|:---:|
-| ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) | ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) |
-| ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) | ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) | ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) |
-
-### Frontend & UI
-| | | |
-|:---:|:---:|:---:|
-| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)| ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) | | |
-
-### Databases
-| | | |
-|:---:|:---:|:---:|
-| ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) |
-| ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) | ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) |
-
-### DevOps & Infrastructure
-| | | |
-|:---:|:---:|:---:|
-| ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) | ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) |
-| ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | |
-
-### Data Science & Machine Learning
-| | | |
-|:---:|:---:|:---:|
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) | ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) |
-| ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) |
-
-### Embedded Systems & IoT
-| | | |
-|:---:|:---:|:---:|
-| ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) | ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) | ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) |
-
-### Development Tools
-| | | |
-|:---:|:---:|:---:|
-| ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) | ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) |
-| ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) | | |
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=joseph-tech-dev&repo=github-visitors-badge&countColor=%2300C49A)
 
 </div>
 
-## Current Engineering Focus
+---
 
-- **Distributed Systems:** Implementing message queuing protocols and event-driven architectures
-- **Embedded ML:** Deploying lightweight machine learning models on resource-constrained devices
-- **API Optimization:** Advanced caching strategies and database query optimization
-- **Open Source:** Contributing to Python libraries for hardware abstraction layers
+### About Me
+
+I'm a Nairobi-based **AI/ML Engineer** who designs and ships production LLM systems — multi-agent pipelines, retrieval-augmented generation, and the backend infrastructure that keeps them fast and reliable. I like taking AI products from architecture diagram to deployed API, with a strong bias toward measurable, real-world impact.
+
+```yaml
+role:        AI/ML Engineer · Backend Architect
+focus:       LLM agents · RAG · API design · applied ML for emerging markets
+location:    Nairobi, Kenya
+currently:   Building multi-agent advisory systems on LangGraph + Gemini
+learning:    Model evaluation frameworks, on-device inference for low-connectivity regions
+```
 
 ---
 
-## GitHub Analytics
-
-## GitHub Analytics
+### AI / ML Engineering Stack
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=joseph-tech-dev&show_icons=true&theme=dark" alt="Joseph's GitHub Stats" />
-  <h></h>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseph-tech-dev&theme=dark" alt="GitHub Streak" />
+
+**LLMs & Agent Frameworks**
+<br/>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Modeling & Data**
+<br/>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Backend & APIs**
+<br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+**Data & Caching Layer**
+<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-A08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+
+**Frontend & Mobile**
+<br/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+**DevOps & Tooling**
+<br/>
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
----
-
-## Professional Philosophy
-
-| Principle | Application |
-|:----------|:------------|
-| **Autonomy** | Deliver results with minimal supervision, maintaining accountability |
-| **Precision** | Write clean, documented, and testable code following industry standards |
-| **Resilience** | Perform effectively under technical constraints and deadlines |
-| **Growth** | Continuously integrate emerging technologies into practical solutions |
-| **Heritage** | Ground technical work in cultural values of responsibility and respect |
 
 ---
+
+### Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Multi-Agent Agricultural Advisory Platform**
+Bilingual (EN/Swahili) advisory system for smallholder farmers, built on a nine-node LangGraph pipeline with Gemini, FastAPI, Supabase auth, PostgreSQL, and Redis caching. React Native/Expo mobile client with M-Pesa billing.
+
+`LangGraph` `Gemini` `FastAPI` `PostgreSQL` `Redis` `React Native`
+
+</td>
+<td width="50%" valign="top">
+
+**Distributed ML Training Infrastructure**
+Dockerized worker system for distributed model training using gRPC, MinIO, and a finite-state-machine execution model, supporting both PyTorch and TensorFlow runtimes.
+
+`gRPC` `Docker` `MinIO` `PyTorch` `TensorFlow`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Custom AI Tool & Agent Integrations**
+Production LangChain tools connecting LLM agents to real systems — vision-based diagnostics, parameterized database lookups, and safety-checked recommendation logic.
+
+`LangChain` `Vision API` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+**Payments & Government Services Integration**
+FastAPI services with M-Pesa Daraja STK Push integration for subscription billing and public-sector payment portals.
+
+`FastAPI` `M-Pesa Daraja` `PostgreSQL`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joseph-tech-dev&theme=github-ligt&hide_border=true&area=true" width="95%" />
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=joseph-tech-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Joseph's GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joseph-tech-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joseph-tech-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joseph-tech-dev&theme=tokyo-night&hide_border=true&area=true" width="90%" alt="Contribution Graph"/>
+
 </div>
-## Connect & Collaborate
 
-I welcome technical discussions, project collaborations, and professional networking opportunities within the engineering community.
+---
+
+### Engineering Principles
+
+| Principle | How it shows up in my work |
+|:---|:---|
+| **Ship reliable systems** | Design for failure — retries, cache invalidation, and clean error boundaries, not just happy paths |
+| **Evaluate before scaling** | Prototype fast, but validate agent behavior and model outputs before they hit production |
+| **Build for real constraints** | Design with intermittent connectivity, cost limits, and local context in mind — not just ideal conditions |
+| **Document as I go** | Clear READMEs, API docs, and architecture notes so systems outlive my involvement |
+
+---
 
 <div align="center">
-  
+
+### Let's Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-tech-dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](maina.j93@yahoo.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maina.j93@yahoo.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://joseph-tech-dev.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joseph-tech-dev)
 
-</div>
+<sub>Profile views: <img src="https://visitcount.itsvg.in/api?id=joseph-tech-dev&label=Views&color=0&icon=0&pretty=true" /> · Last updated: July 2026</sub>
 
----
-
-<div align="center">
-  <sub>
-    Profile views: <img src="https://visitcount.itsvg.in/api?id=joseph-tech-dev&label=Views&color=0&icon=0&pretty=true" /> · 
-    Last updated: May 2026 · 
-    Built with <a href="https://shields.io/">Shields.io</a> and <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a>
-  </sub>
 </div>
